@@ -21,7 +21,7 @@ Click the following Deploy to Azure button. It will deploy this project to Azure
 
 Give it an app name.
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2FFlorin-JustPlus%2FDemoActionableMessages%2Fazuredeploy.json)
 
 Wait 5 minutes after reaching step "Setting up Source Control". The deployment should have finished but the UX might not show success.
 
